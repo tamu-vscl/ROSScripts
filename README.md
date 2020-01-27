@@ -12,6 +12,6 @@ Will change the master to the other computer.
 
 Will restore the master to your computer
 
-````echo "source /home/vscl-2/ROSScripts/ros_master.bash" >> ~/.bashrc````
+````echo "source ~/ROSScripts/ros_master.bash" >> ~/.bashrc````
 
 Will allow you to have access to these scripts without sourcing the file every time.
